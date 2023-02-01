@@ -1,1 +1,1 @@
-sudo apt install jdk
+sudo apt-get install http
