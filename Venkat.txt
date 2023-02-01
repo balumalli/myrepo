@@ -1,1 +1,1 @@
-sudo yum install java
+sudo apt-get install wget
