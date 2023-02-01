@@ -1,1 +1,1 @@
-sudo apt http install 
+sudo apt-get update
